@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width='40px' src='https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif' alt='hi' />, I'm Abhay Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img  src='https://images8.alphacoders.com/115/1156488.png' />
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=abhay0123&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0123" /> </p>
 <img align='right'  src='https://c.tenor.com/sY2l7om8MFIAAAAj/game-and-watch-dancing.gif' width='120px' height='120px' alt='dance_avatar' />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=abhay0123&theme=darkhub" alt="abhay0123" alt="abhay0123" /></a> </p>
