@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **pathakabhay038@gmail.com**
 
-- ⚡ Fun fact **A passionate electrical engineer want to become a ardent coder in future😎**
+- ⚡  **A passionate electrical engineer want to become a ardent coder in future😎**
 <img         src='https://camo.githubusercontent.com/657fa25e97fc26cd2e7212e5103d0a4f1b8c96907285e47f0a4095332fe3586f/68747470733a2f2f692e706f776572656474656d706c617465732e636f6d2f692f636c2f30302f3638322f7070745f616e696d6174696f6e5f3333322e676966' align='right' alt='avatar'/>
 
 <h3 align="left">Connect with me:</h3>
