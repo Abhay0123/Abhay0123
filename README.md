@@ -68,10 +68,8 @@
 
 <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhay0123&show_icons=true&theme=dark&locale=en" alt="Abhay0123" /></p>
-
-
-<p align="left" top='-300px'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay0123&show_icons=true&theme=dark" alt="Abhay0123" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhay0123&show_icons=true&theme=dark&locale=en" alt="Abhay0123" /></p>
+<p align="left" ><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay0123&show_icons=true&theme=dark" alt="Abhay0123" /></p>
   </div>
 <br/>
 
