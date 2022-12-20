@@ -20,7 +20,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-pathak-791b18209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay pathak" height="30" width="40" /></a>
-
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay0123&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhay0123" /></p>
 <a href="https://codesandbox.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhay0123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay0123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay0123" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 </p>
 
-
+<img align='right' src='https://camo.githubusercontent.com/657fa25e97fc26cd2e7212e5103d0a4f1b8c96907285e47f0a4095332fe3586f/68747470733a2f2f692e706f776572656474656d706c617465732e636f6d2f692f636c2f30302f3638322f7070745f616e696d6174696f6e5f3333322e676966' align='right' alt='avatar'/>
 
 
 ## 🚀 Languages and Tools:
@@ -62,12 +62,12 @@
  </div>
 </div>
 
-<img align='right' src='https://camo.githubusercontent.com/657fa25e97fc26cd2e7212e5103d0a4f1b8c96907285e47f0a4095332fe3586f/68747470733a2f2f692e706f776572656474656d706c617465732e636f6d2f692f636c2f30302f3638322f7070745f616e696d6174696f6e5f3333322e676966' align='right' alt='avatar'/>
+
 
 
 
 <div>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay0123&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhay0123" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhay0123&show_icons=true&theme=dark&locale=en" alt="Abhay0123" /></p>
 <p align="left" ><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay0123&show_icons=true&theme=dark" alt="Abhay0123" /></p>
   </div>
