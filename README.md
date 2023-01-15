@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width='40px' src='https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif' alt='hi' />, I'm Abhay Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  src='https://storage.cloudconvert.com/tasks/a1e6e7bf-5c61-4305-b7aa-71fc912c31a3/bg%20image%20%281%29.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1669185096&Signature=vRCM5YmdQP7JgD9TE5UPXXWgMpU%3D&response-content-disposition=inline%3B%20filename%3D%22bg%20image%20%281%29.jpg%22&response-content-type=image%2Fjpeg' alt='avatar' width='120%' height='400px'/>
+<img  src='https://user-images.githubusercontent.com/105913940/212524551-703b2315-8ec1-402d-8fcf-edbfd46b7658.jpg' alt='avatar' width='120%' height='400px'/>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=abhay0123&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0123" /> </p>
 <img align='right'  src='https://c.tenor.com/sY2l7om8MFIAAAAj/game-and-watch-dancing.gif' width='120px' height='120px' alt='dance_avatar' />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=abhay0123&theme=darkhub" alt="abhay0123" alt="abhay0123" /></a> </p>
