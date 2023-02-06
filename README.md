@@ -22,8 +22,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-pathak-791b18209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay pathak" height="30" width="40" /></a>
 
 <a href="https://codesandbox.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhay0123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay0123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhay0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay0123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pathakabhay038?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhay0123" height="30" width="40" /></a>
+
 
 
 </p>
