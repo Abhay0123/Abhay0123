@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **Masai Full stack Web Development course**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT,CHAKRA UI**
--  <img width='18px' src='https://cdn-icons-png.flaticon.com/512/4365/4365945.png'>view My Portfolio : <a href='https://abhay0123.github.io'>Portfolio</a>
+- 📫 view My Portfolio : *https://abhay0123.github.io/*
 
-- 📫 How to reach me : -<a href="https://www.linkedin.com/in/abhay-pathak-791b18209/">Linkedin </a>
+- 📫 How to reach me : *https://www.linkedin.com/in/abhay-pathak-791b18209/*
 
 - ⚡  **A passionate electrical engineer want to become a ardent coder in future😎**
 
