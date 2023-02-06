@@ -12,7 +12,7 @@
 
 - 📫 View ( Portfolio ): *https://abhay0123.github.io/*
 
-- 📫 View ( HackerRank ): *https://www.hackerrank.com/pathakabhay038?hr_r=1*
+- 📫 View ( HackerRank ): *https://www.hackerrank.com/pathakabhay038*
   
 - 📫 View ( Codesandbox ): *https://codesandbox.com/abhay0123*
 
