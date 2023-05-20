@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width='40px' src='https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif' alt='hi' />, I'm Abhay Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Result-oriented SDET</h3>
 <img  src='https://user-images.githubusercontent.com/105913940/212524551-703b2315-8ec1-402d-8fcf-edbfd46b7658.jpg' alt='avatar' width='120%' height='400px'/>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=abhay0123&label=Profile%20views&color=0e75b6&style=flat" alt="abhay0123" /> </p>
 <img align='right'  src='https://c.tenor.com/sY2l7om8MFIAAAAj/game-and-watch-dancing.gif' width='120px' height='120px' alt='dance_avatar' />
