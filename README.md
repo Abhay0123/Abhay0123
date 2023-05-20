@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SDET course Masai School**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-CUCUMBER,                       API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER**
+- 💬 Ask me about:    HTML,CSS,JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
 - 📫 View ( Portfolio ): *https://abhay0123.github.io/*
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me : *https://www.linkedin.com/in/abhay-pathak-791b18209/*
 
-- ⚡  **A passionate electrical engineer want to become a ardent SDET in future😎**
+- ⚡  **A passionate electrical engineer want to become a ardent SDET in future 😎**
 
 
 ## 🚀 Languages and Tools:
