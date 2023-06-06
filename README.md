@@ -20,7 +20,7 @@ processes and deliver reliable and efficient software solutions.
 
 - 💬 Ask me about:    HTML,CSS,JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
-- 📫 View ( Portfolio ): *https://abhay0123.github.io/*
+- 📫 View ( Portfolio ): *https://abhay-kumar-sdet-portfolio.netlify.app/*
 
 - 📫 View ( HackerRank ): *https://www.hackerrank.com/pathakabhay038*
   
