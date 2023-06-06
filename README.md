@@ -26,7 +26,7 @@ processes and deliver reliable and efficient software solutions.
   
 - 📫 View ( Codesandbox ): *https://codesandbox.com/abhay0123*
 
-- 📫 How to reach me : *https://www.linkedin.com/in/abhay-pathak-791b18209/*
+- 📫 How to reach me : *https://www.linkedin.com/in/abhay-kumar-791b18209/*
 
 - ⚡  **A passionate electrical engineer want to become a ardent SDET in future 😎**
 
