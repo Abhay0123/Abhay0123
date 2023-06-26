@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
  <p align="left" style="width: 50%;">Dynamic and enthusiastic SDET fresher for ensuring software
-quality. Seeking a challenging role in a organization where I can
+quality. Seeking a challenging role in an organization where I can
 utilize my knowledge of test automation frameworks to
 contribute to the continuous improvement of software testing
 processes and deliver reliable and efficient software solutions.
@@ -18,9 +18,11 @@ processes and deliver reliable and efficient software solutions.
 
 - 🌱 I’m currently learning **SDET course in Masai School**
 
-- 💬 Ask me about:    HTML,CSS,JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
+- 💬 Ask me about    HTML, CSS, JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
 - 📫 View ( Portfolio ): *https://abhay-kumar-sdet-portfolio.netlify.app/*
+
+- 📫 Resume :  *https://drive.google.com/drive/u/0/folders/1yJKyL2ACDqv9KD9an1q-uuunp2KD275W*
 
 - 📫 View ( HackerRank ): *https://www.hackerrank.com/pathakabhay038*
   
@@ -28,7 +30,7 @@ processes and deliver reliable and efficient software solutions.
 
 - 📫 How to reach me : *https://www.linkedin.com/in/abhay-kumar-791b18209/*
 
-- ⚡  **A passionate electrical engineer want to become a ardent SDET in future 😎**
+- ⚡  **A passionate electrical engineer wants to become a ardent SDET in future 😎**
 
 
 ## 🚀 Languages and Tools:
