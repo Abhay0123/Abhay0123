@@ -18,7 +18,7 @@ processes and deliver reliable and efficient software solutions.
 
 - 🌱 I’m currently learning **SDET course in Masai School**
 
-- 💬 Ask me about    HTML, CSS, JAVASCRIPT, CORE JAVA, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
+- 💬 Ask me about    HTML, CSS, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
 - 📫 View ( Portfolio ): *https://abhay-kumar-sdet-portfolio.netlify.app/*
 
