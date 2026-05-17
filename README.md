@@ -2,12 +2,13 @@
 <h3 align="center">A Passionate Result-oriented SDET</h3>
 <h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
- <p align="left" style="width: 50%;">Dynamic and enthusiastic SDET fresher for ensuring software
-quality. Seeking a challenging role in an organization where I can
-utilize my knowledge of test automation frameworks to
-contribute to the continuous improvement of software testing
-processes and deliver reliable and efficient software solutions.
+ <p align="left" style="width: 50%;">Detail-oriented QA Engineer / SDET with 2.8 years of experience in delivering high-quality web, email marketing through a strong combination of manual and automation testing. Proficient in Selenium, Cypress, WebDriver, TestNG, Maven, GitHub, BDD Cucumber, and data-driven automation frameworks, along with API testing using Postman and Rest Assured.
 
+Hands-on experience in manual testing activities including requirement analysis, test scenario creation, test case design, test execution, defect tracking, regression testing, smoke testing, and exploratory testing. Skilled at identifying edge cases and usability issues early in the SDLC to prevent production defects and improve overall product stability.
+
+Strong background in automation testing, involving the design, development, and maintenance of scalable test scripts, integration of automated tests and execution of regression suites to ensure faster and reliable releases. Known for collaborating effectively with developers, product owners, and business analysts to clarify requirements, reproduce defects, and deliver seamless user experiences.
+
+Driven by a quality-first mindset, I focus on applying the right mix of manual depth and automation efficiency to ensure robust, maintainable, and user-centric software solutions.
  </p>
 <img  src='https://user-images.githubusercontent.com/105913940/212524551-703b2315-8ec1-402d-8fcf-edbfd46b7658.jpg' alt='avatar' width='120%' height='400px'/>
 
@@ -16,7 +17,7 @@ processes and deliver reliable and efficient software solutions.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=abhay0123&theme=darkhub" alt="abhay0123" alt="abhay0123" /></a> </p>
 
 
-- 🌱 I’m currently learning **SDET course in Masai School**
+- 🌱 I’m currently learning **Senior Analyst - Quality Assurance**
 
 - 💬 Ask me about    HTML, CSS, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
