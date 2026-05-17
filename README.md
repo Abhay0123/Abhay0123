@@ -17,7 +17,7 @@ Driven by a quality-first mindset, I focus on applying the right mix of manual d
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=abhay0123&theme=darkhub" alt="abhay0123" alt="abhay0123" /></a> </p>
 
 
-- 🌱 I’m currently learning **Senior Analyst - Quality Assurance**
+- 🌱 I’m currently **Senior Analyst - Quality Assurance**
 
 - 💬 Ask me about    HTML, CSS, MANUAL TESTING, SELENIUM, CYPRESS, POSTMAN, API-TESTING (BDD), API-TESTING-  CUCUMBER, API-TESTING-FRAMEWORK, API-TESTING-CYPRESS, API-TESTING-CYPRESS-CUCUMBER
 
