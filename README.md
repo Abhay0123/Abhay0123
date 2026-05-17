@@ -31,7 +31,7 @@ Driven by a quality-first mindset, I focus on applying the right mix of manual d
 
 - 📫 How to reach me : *https://www.linkedin.com/in/abhay-kumar-791b18209/*
 
-- ⚡  **A passionate electrical engineer wants to become a ardent SDET in future 😎**
+- ⚡  **Proud to receive appreciation from my company for the second time in recognition of my work and contributions in the Quality role. 😎**
 
 
 ## 🚀 Languages and Tools:
